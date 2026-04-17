@@ -1,6 +1,6 @@
 {
     "latest_version":  "1.1.0",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.1.0/FoxLite-1.1.0.zip",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.1.0-test/FoxLite-1.1.0.zip",
     "sha256":  "ED8C96939179C3F35FABCFBD1BC3B9EC754FD1A0926A36946047EBD31D77C798",
     "size":  70980768,
     "mandatory":  false,
