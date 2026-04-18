@@ -1,13 +1,11 @@
 {
-    "latest_version":  "1.2.0",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.0/FoxLiteEditor-V1.2.0.zip",
-    "sha256":  "B70C7CC84892E7A7CBE3DA2D10E11B691715FD5ED835535D7520A41DCEF27609",
-    "size":  72515803,
+    "latest_version":  "1.2.1",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.1/FoxLiteEditor-v1.2.1.zip",
+    "sha256":  "98CE11C0428E189C6A208E1B88E9A5692109AC73BDC5F8A527A06036C442BEF5",
+    "size":  72516005,
     "mandatory":  false,
-    "release_notes":  "Version test",
+    "release_notes":  "Patch",
     "release_notes_bullets":  [
-                                  "Ajout du système de mise à jour",
-                                  "Popup d’update FoxLite",
-                                  "Corrections générales"
+                                  "Correction d'un bug qui empêchait le drag & drop d'un fichier .fox directement sur la zone de texte de l'éditeur principal.",
                               ]
 }
