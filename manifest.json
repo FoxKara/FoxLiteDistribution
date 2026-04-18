@@ -1,13 +1,11 @@
 {
-    "latest_version":  "1.2.4",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.4/FoxLiteEditor-v1.2.4.zip",
-    "sha256":  "E473FA74BF459FEFE668650B5DB129AD4FCEC6BF76BFECE1A28B501799DA675F",
-    "size":  72518309,
+    "latest_version":  "1.2.5",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.5/FoxLiteEditor-v1.2.5.zip",
+    "sha256":  "F7D9049F8159C4ED36676F1F1805C88458D46D8BAF3BD0A8E108B51579AD2136",
+    "size":  72523196,
     "mandatory":  false,
     "release_notes":  "Debug",
     "release_notes_bullets":  [
-                                  "Refonte interne du splash; Il s\u0027occupe désormais de vérifier si il existe une version plus récente.",
-                                  "Nouvelle tentative de correction du chemin par défaut d\u0027installation de la mise à jour.",
-                                  "Nouvelle tentative de correction du bug empêchant à l\u0027éditeur d\u0027accéder à toutes ses fonctionnalités après MAJ."
+                                  "Nouvelle tentative de correction des bugs précédents qui persistent."
                               ]
 }
