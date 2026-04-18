@@ -1,12 +1,11 @@
 {
-    "latest_version":  "1.2.6",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.6/FoxLiteEditor-v1.2.6.zip",
-    "sha256":  "9E483AF5B6BED6C145300F2104EAE9ED3E7576EBF188C3F6EFE912080D5FDE82",
-    "size":  72525168,
+    "latest_version":  "1.2.7",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.7/FoxLiteEditor-v1.2.7.zip",
+    "sha256":  "193F0FC24A318C35D6E6FE244FB51C8C16A27A0E5E96A5E422C6B21B2BDFA8B5",
+    "size":  72525179,
     "mandatory":  false,
     "release_notes":  "Débug mineur",
     "release_notes_bullets":  [
-                                 "Nouvelle tentative de correction des bugs précédents qui persistent.",
-                                  "Correction du la mauvaise priorité du launcher."
+                                  "Fausse version plus récente pour test update."
                               ]
 }
