@@ -1,11 +1,13 @@
 {
-    "latest_version":  "1.2.2",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.2/FoxLiteEditor-v1.2.2.zip",
-    "sha256":  "160069F194F19AE9DE442067C3464B73887F3B662EDF39827B83859947C448CC",
-    "size":  72516965,
+    "latest_version":  "1.2.3",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.3/FoxLiteEditor-v1.2.3.zip",
+    "sha256":  "8530768395393F28918B75743921FDAEB741234AC47A89FFE687AD28961D4B0A",
+    "size":  72516977,
     "mandatory":  false,
-    "release_notes":  "Débug mineur",
+    "release_notes":  "Debug",
     "release_notes_bullets":  [
-                                  "Correction de placement et du comportement de la fenêtre de mise à jour."
+                                  "- Correction de placement et du comportement de la fenêtre de mise à jour.",
+                                  "- Correction du chemin d\u0027accès par défaut de la mise à jour",
+                                  "- Correction du problème d\u0027accès empêchant l\u0027éditeur d\u0027accéder à toutes ses fonctionnalités au lancement automatique après une mise à jour."
                               ]
 }
