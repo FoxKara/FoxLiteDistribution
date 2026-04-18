@@ -1,12 +1,13 @@
 {
     "latest_version":  "1.2.0",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.1.0-test/FoxLite-1.2.0.zip",
-    "sha256":  "ED8C96939179C3F35FABCFBD1BC3B9EC754FD1A0926A36946047EBD31D77C798",
-    "size":  70980768,
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.0/FoxLiteEditor-V1.2.0.zip",
+    "sha256":  "2CEEE37B1BFA62910767723E84338B67D9F4BE63E82C54A115E6F654A1B0E8EB",
+    "size":  72527826,
     "mandatory":  false,
     "release_notes":  "Version test",
     "release_notes_bullets":  [
-                                  "Test 1",
-                                  "Test 2"
+                                  "Ajout du système de mise à jour",
+                                  "Popup d’update FoxLite",
+                                  "Corrections générales"
                               ]
 }
