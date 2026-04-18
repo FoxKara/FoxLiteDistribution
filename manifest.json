@@ -6,6 +6,6 @@
     "mandatory":  false,
     "release_notes":  "Patch",
     "release_notes_bullets":  [
-                                  "Correction d'un bug qui empêchait le drag & drop d'un fichier .fox directement sur la zone de texte de l'éditeur principal.",
+                                  "Correction d'un bug qui empêchait le drag & drop d'un fichier .fox directement sur la zone de texte de l'éditeur principal."
                               ]
 }
