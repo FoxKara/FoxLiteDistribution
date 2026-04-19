@@ -1,11 +1,12 @@
 {
-    "latest_version":  "1.2.7",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.7/FoxLiteEditor-v1.2.7.zip",
-    "sha256":  "193F0FC24A318C35D6E6FE244FB51C8C16A27A0E5E96A5E422C6B21B2BDFA8B5",
-    "size":  72525179,
+    "latest_version":  "1.2.8",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.8/FoxLiteEditor-v1.2.8.zip",
+    "sha256":  "859AD489B1CFD94CC1E5D6D5950640A0680A08212C71DFBDBA36B3DA7EAFD4E7",
+    "size":  72528571,
     "mandatory":  false,
-    "release_notes":  "Débug mineur",
+    "release_notes":  "Ajustements mineurs",
     "release_notes_bullets":  [
-                                  "Fausse version plus récente pour test update."
+                                  "Léger ajustement visuel du splash pendant la vérification de la version.",
+                                  "Mise à jour du tutoriel FoxLite."
                               ]
 }
