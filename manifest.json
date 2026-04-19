@@ -1,12 +1,15 @@
 {
-    "latest_version":  "1.2.8",
-    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.2.8/FoxLiteEditor-v1.2.8.zip",
-    "sha256":  "859AD489B1CFD94CC1E5D6D5950640A0680A08212C71DFBDBA36B3DA7EAFD4E7",
-    "size":  72528571,
+    "latest_version":  "1.3.0",
+    "package_url":  "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.3.0/FoxLiteEditor-v1.3.0.zip",
+    "sha256":  "4B1FB179853BFBA9BF412A8A750C260159519BAA5CBF9C62E461D574695CE60C",
+    "size":  72541814,
     "mandatory":  false,
-    "release_notes":  "Ajustements mineurs",
+    "release_notes":  "Corrections et améliorations majeures",
     "release_notes_bullets":  [
-                                  "Léger ajustement visuel du splash pendant la vérification de la version.",
-                                  "Mise à jour du tutoriel FoxLite."
+                                  "Correction du système de mise à jour.",
+                                  "Correction du bug empêchant l’éditeur d’accéder à ses fonctionnalités juste après une mise à jour.",
+                                  "Refonte du moteur de rendu HTML.",
+                                  "Ajout de 13 emojis supplémentaires.",
+                                  "Amélioration du texte de présentation de l’éditeur"
                               ]
 }
