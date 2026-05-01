@@ -6,6 +6,9 @@
     "mandatory":  false,
     "release_notes":  "Corrections et améliorations majeures",
     "release_notes_bullets":  [
-
+    "Stabilisation interne et nettoyage de l’architecture.",
+    "Ajout d’un système de tests éditeur.",
+    "Amélioration de l’installeur FR/EN.",
+    "Correction du drag & drop des fichiers .txt."
                               ]
 }
