@@ -3,12 +3,12 @@
   "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.5.2/FoxLiteEditor-V1.5.2-win-x64.zip",
   "sha256": "31693BBE514984603CC84B42FE0C412FC923B5230AB27FBABC124761E6E2DD2B",
   "size": 71081948,
-    "mandatory":  false,
-    "release_notes":  "Corrections et améliorations majeures",
-    "release_notes_bullets":  [
+  "mandatory": false,
+  "release_notes": "Corrections et améliorations majeures",
+  "release_notes_bullets": [
     "Stabilisation interne et nettoyage de l’architecture.",
     "Ajout d’un système de tests éditeur.",
     "Amélioration de l’installeur FR/EN.",
     "Correction du drag & drop des fichiers .txt."
-                              ]
+  ]
 }
