@@ -1,11 +1,12 @@
 {
-  "latest_version": "1.5.3",
-  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.5.3/FoxLiteEditor-V1.5.3-win-x64.zip",
-  "sha256": "4D9595F22824A89E309313BE9466BD539F29F5C17E12879CAAE25BA293DB9FDF",
-  "size": 71085694,
+  "latest_version": "1.5.4",
+  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.5.4/FoxLiteEditor-V1.5.4-win-x64.zip",
+  "sha256": "56F151425B101DC4CDE17ADFFEBA79962EE0FBD3D999470ED7ECDB69D1876619",
+  "size": 71128446,
   "mandatory": false,
-  "release_notes": "Debug Editeur et Installeur",
+  "release_notes": "Divers corrections mineurs",
   "release_notes_bullets": [
-    "La langue choisie pendant l'installation devrait être correctement appliquée."
+    "Taille par défaut de la fenêtre ajustée",
+    "Divers bugs corrigés"
   ]
 }
