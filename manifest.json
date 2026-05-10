@@ -1,7 +1,7 @@
 {
   "latest_version": "1.6.0",
   "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.0/FoxLiteEditor-V1.6.0-win-x64.zip",
-  "sha256": "0E9224890A75EFE390CC11F1486713B7655BA38D0490A0CE67C7CE1DF0E3C5B0",
+  "sha256": "6BC16E8D5067E50CD74D9C190FF7787A6E40A509210E53D6A75628A7F440CE97",
   "size": 71689811,
   "mandatory": false,
   "release_notes": "Version majeure : nouveaux outils d’édition, barre contextuelle personnalisable, améliorations UX et stabilité renforcée.",
