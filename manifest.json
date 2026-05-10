@@ -1,18 +1,11 @@
 {
-  "latest_version": "1.6.0",
-  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.0/FoxLiteEditor-V1.6.0-win-x64.zip",
-  "sha256": "6BC16E8D5067E50CD74D9C190FF7787A6E40A509210E53D6A75628A7F440CE97",
-  "size": 71689811,
+  "latest_version": "1.6.1",
+  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.1/FoxLiteEditor-V1.6.1-win-x64.zip",
+  "sha256": "2C6502BC5BDE015DA77D8A8FAC524745929B0D24F941604B42F71DEFB84FD445",
+  "size": 71691522,
   "mandatory": false,
-  "release_notes": "Version majeure : nouveaux outils d’édition, barre contextuelle personnalisable, améliorations UX et stabilité renforcée.",
+  "release_notes": "Correction urgente !",
   "release_notes_bullets": [
-    "Ajout de l’alignement de texte avec ::align left, center et right.",
-    "Ajout des outils Alignement, Titre et Code dans la barre d’outils.",
-    "Nouvelle barre d’édition contextuelle, configurable avec groupes prédéfinis ou raccourcis personnalisés.",
-    "Amélioration des diagnostics FoxLite, du panneau d’erreurs et de la lisibilité des messages.",
-    "Améliorations du rendu HTML, des retours à la ligne, des tableaux, des images et des espacements.",
-    "Correction du mode texte brut .txt et de la restauration du layout lors du retour vers un document FoxLite.",
-    "Bouton Enregistrer désormais actif uniquement lorsqu’un document contient des modifications.",
-    "Nombreuses corrections de sélection, d’insertion, d’encapsulation et de stabilité globale."
+    "Correction d'un bug qui empêchait l'aperçu HTML de démarrer."
   ]
 }
