@@ -1,11 +1,12 @@
 {
-  "latest_version": "1.6.1",
-  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.1/FoxLiteEditor-V1.6.1-win-x64.zip",
-  "sha256": "2C6502BC5BDE015DA77D8A8FAC524745929B0D24F941604B42F71DEFB84FD445",
-  "size": 71691522,
+  "latest_version": "1.6.2",
+  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.2/FoxLiteEditor-V1.6.2-win-x64.zip",
+  "sha256": "EDB388EF3FB7B164FEC38564F053BE89DD09EBC42572FB1FD6C13A1B0FF2A394",
+  "size": 71691548,
   "mandatory": false,
-  "release_notes": "Correction urgente !",
+  "release_notes": "Corrections critiques",
   "release_notes_bullets": [
-    "Correction d'un bug qui empêchait l'aperçu HTML de démarrer."
+    "Correction d'un bug qui empêchait l'aperçu HTML de démarrer.",
+    "Correction d'un bug qui empêchait le launcher de mettre correctement à jour l'application."
   ]
 }
