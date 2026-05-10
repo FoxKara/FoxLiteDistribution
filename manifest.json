@@ -1,8 +1,8 @@
 {
   "latest_version": "1.6.2",
-  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.1/FoxLiteEditor-V1.6.1-win-x64.zip",
-  "sha256": "2C6502BC5BDE015DA77D8A8FAC524745929B0D24F941604B42F71DEFB84FD445",
-  "size": 71691522,
+  "package_url": "https://github.com/FoxKara/FoxLiteDistribution/releases/download/v1.6.2/FoxLiteEditor-V1.6.2-win-x64.zip",
+  "sha256": "F01AC2615942F4E219A309E34EE679E2658B18E841DBE9F3CBB6A58CA78453AC",
+  "size": 71693373,
   "mandatory": false,
   "release_notes": "Corrections critiques",
   "release_notes_bullets": [
